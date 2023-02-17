@@ -1,2 +1,3 @@
-# simple-loader
-Simple loader for you're cheat (fake inject)
+Hello! I start learning C# and its my first program (loader)
+
+<3
