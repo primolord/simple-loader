@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\SelectedTypeHelp\SelectedTypeHelp\bin\Release\net6.0\SelectedTypeHelp.exe
+C:\Users\User\source\repos\SelectedTypeHelp\SelectedTypeHelp\bin\Release\net6.0\SelectedTypeHelp.deps.json
+C:\Users\User\source\repos\SelectedTypeHelp\SelectedTypeHelp\bin\Release\net6.0\SelectedTypeHelp.runtimeconfig.json
+C:\Users\User\source\repos\SelectedTypeHelp\SelectedTypeHelp\bin\Release\net6.0\SelectedTypeHelp.dll
+C:\Users\User\source\repos\SelectedTypeHelp\SelectedTypeHelp\bin\Release\net6.0\SelectedTypeHelp.pdb
+C:\Users\User\source\repos\SelectedTypeHelp\SelectedTypeHelp\obj\Release\net6.0\SelectedTypeHelp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SelectedTypeHelp\SelectedTypeHelp\obj\Release\net6.0\SelectedTypeHelp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SelectedTypeHelp\SelectedTypeHelp\obj\Release\net6.0\SelectedTypeHelp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SelectedTypeHelp\SelectedTypeHelp\obj\Release\net6.0\SelectedTypeHelp.AssemblyInfo.cs
+C:\Users\User\source\repos\SelectedTypeHelp\SelectedTypeHelp\obj\Release\net6.0\SelectedTypeHelp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SelectedTypeHelp\SelectedTypeHelp\obj\Release\net6.0\SelectedTypeHelp.dll
+C:\Users\User\source\repos\SelectedTypeHelp\SelectedTypeHelp\obj\Release\net6.0\refint\SelectedTypeHelp.dll
+C:\Users\User\source\repos\SelectedTypeHelp\SelectedTypeHelp\obj\Release\net6.0\SelectedTypeHelp.pdb
+C:\Users\User\source\repos\SelectedTypeHelp\SelectedTypeHelp\obj\Release\net6.0\SelectedTypeHelp.genruntimeconfig.cache
+C:\Users\User\source\repos\SelectedTypeHelp\SelectedTypeHelp\obj\Release\net6.0\ref\SelectedTypeHelp.dll
